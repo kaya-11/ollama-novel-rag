@@ -1,0 +1,8 @@
+.DS_Store
+data_local
+.idea/
+chroma/
+chroma/chroma.sqlite3
+rag-v2.iml
+venv/
+__pycache__/
